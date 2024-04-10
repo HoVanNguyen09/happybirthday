@@ -24,7 +24,7 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "Hi Anh Hai, Nhấn Vào Đây Để Tiếp Tục Nha.",
+        turn_on: "Hi Anh Hai, Nhấn Vào Đây Để Thắp Sáng Lên Nè.",
         play: "Mở Nhạc Nè",
         bannar_coming: "Thêm Sự Quan Trọng Nè.",
         balloons_flying: "Hình Như Thấy Thiếu Thiếu thì phải.",
